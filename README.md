@@ -10,7 +10,7 @@ pude acessar a página Yellow Pages e gerar um TXT com os resultados.
 * <b>Funcionalidade 3</b>: Gera um TXT com os resultados encontrados
 
 ## :wrench: Tecnologias utilizadas
-* Python + seleinum +  BeautifulSoup
+* Python + selenium +  BeautifulSoup
 
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, e executar de preferência na IDE pyCharm
