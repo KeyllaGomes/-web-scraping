@@ -1,7 +1,7 @@
 # -web-scraping-python
 
 ## :memo: Descrição
-O projeto de Web Scraping com python foi um desafio extasiante, onde utilizando a biblioteca do selenium e BeautifulSoup, 
+O projeto de Web Scraping com python foi um desafio extasiante, onde utilizando a biblioteca do selenium, 
 pude acessar a página Yellow Pages e gerar um TXT com os resultados.
 
 ## :books: Funcionalidades
@@ -10,7 +10,7 @@ pude acessar a página Yellow Pages e gerar um TXT com os resultados.
 * <b>Funcionalidade 3</b>: Gera um TXT com os resultados encontrados
 
 ## :wrench: Tecnologias utilizadas
-* Python + selenium +  BeautifulSoup
+* Python + selenium
 
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, e executar de preferência na IDE pyCharm
