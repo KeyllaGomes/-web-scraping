@@ -46,7 +46,7 @@ class TestTestey():
         print("ap9: " + ap9)
         print("ap10: " + ap10)
 
-        time.sleep(10)
+        time.sleep(4)
 
         dados = ap1 + ';' + ap2 + ';' + ap3 + ';' + ap4 + ';' + ap5 + ';' + ap6 + ';' + ap7 + ';' + ap8 + ';' + ap9 + ';' + ap10
 
